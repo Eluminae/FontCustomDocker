@@ -5,7 +5,12 @@ This project is just a dockerisate environment for [FontCustom](https://github.c
 
 How it works ?
 
+```bash
+$ mkdir svg
+```
+
 - Put svgs on the svg folder
+
 ```bash
 $ make compile
 ```
